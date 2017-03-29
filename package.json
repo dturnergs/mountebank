@@ -66,7 +66,7 @@
     "service virtualization"
   ],
   "dependencies": {
-    "cors": "~2.8.1",
+    "cors": "~2.8.2",
     "csv-parse": "^1.2.0",
     "ejs": "~2.5.1",
     "errorhandler": "^1.0.0",
